@@ -4,8 +4,8 @@ Bachelor thesis: "Barrier Mediated Prey-Predator Dynamics Under the Periodic Bou
 
 Files:
 <ul>
- <li href="https://github.com/hawkerfriedrice/PredPreyDynamicsPeriodicBoundary/blob/main/Thesis/Wonges_Jessica_Bachelorarbeit.pdf">Thesis</li>
- <li href="https://github.com/hawkerfriedrice/PredPreyDynamicsPeriodicBoundary/blob/main/Thesis/Wonges_Jessica_Abschlussvortrag.pdf">Seminar Presentation</li>
+ <li><a href="https://github.com/hawkerfriedrice/PredPreyDynamicsPeriodicBoundary/blob/main/Thesis/Wonges_Jessica_Bachelorarbeit.pdf">Thesis</a></li>
+ <li><a href="https://github.com/hawkerfriedrice/PredPreyDynamicsPeriodicBoundary/blob/main/Thesis/Wonges_Jessica_Abschlussvortrag.pdf">Seminar Presentation</a></li>
 </ul>
 
 # Abstract
