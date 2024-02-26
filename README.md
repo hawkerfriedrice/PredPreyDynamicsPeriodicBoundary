@@ -2,6 +2,12 @@
 
 Bachelor thesis: "Barrier Mediated Prey-Predator Dynamics Under the Periodic Boundary Condition" at the Institute of Theoretical Physics II: Soft Matter at the Heinrich-Heine-University Düsseldorf. 
 
+Files:
+<ul>
+ <li href="./Thesis/Wonges_Jessica_Bachelorarbeit.pdf">Thesis</li>
+ <li href="./Thesis/Wonges_Jessica_Abschlussvortrag.pdf">Seminar Presentation</li>
+</ul>
+
 # Abstract
 Predator-prey dynamics are crucial for the survival of an ecosystem. The likelihood of a prey being caught by a predator depends not only on their relative speeds but also on the characteristics of their local environment. For example, in the macroscopic world, the wolf must be able to move through a dense forest in order to catch the deer. In this study, we introduce an idealised one-dimensional model in which a prey and a predator must overcome a potential barrier to engage in a chase. The model is based on the overdamped Newtonian equation, and it is solved for two possible cases: on a parabolic potential barrier and on a periodic potential barrier. 
 
